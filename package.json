@@ -1,6 +1,6 @@
 {
   "name": "scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module to execute a system command.",
   "main": "index.js",
   "scripts": {
