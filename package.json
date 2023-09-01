@@ -4,9 +4,9 @@
   "description": "A simple module to execute a system command.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node runScanner.js"
-  },
-  "repository": {
+  "setup": "node runScanner.js"
+},
+"repository": {
     "type": "git",
     "url": "https://github.com/ahmedsherif/scanner.git"
   },
