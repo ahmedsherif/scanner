@@ -1,12 +1,17 @@
 {
   "name": "scanner",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple module to execute a system command.",
   "main": "index.js",
   "scripts": {
-  "postinstall": "node runScanner.js"
+    "postinstall": "node runScanner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedsherif/scanner.git"
+  },
+  "author": "YOUR_NAME",
+  "license": "ISC",
+  "dependencies": {}
 }
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+
