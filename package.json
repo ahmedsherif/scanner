@@ -4,7 +4,7 @@
   "description": "A simple module to execute a system command.",
   "main": "index.js",
   "scripts": {
-  "setup": "node runScanner.js"
+  "postinstall": "node index.js"
 },
 "repository": {
     "type": "git",
