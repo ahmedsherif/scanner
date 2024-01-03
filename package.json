@@ -4,14 +4,13 @@
   "description": "A simple module to execute a system command.",
   "main": "index.js",
   "scripts": {
-  "postinstall": "node index.js"
+  "postinstall": "node install.js"
 },
 "repository": {
     "type": "git",
     "url": "https://github.com/ahmedsherif/scanner.git"
   },
-  "author": "YOUR_NAME",
+  "author": "Mark",
   "license": "ISC",
   "dependencies": {}
 }
-
